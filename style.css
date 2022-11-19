@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(to right , red, yellow);
+}
+
+
+
+#color1 {
+    float: left;
+}
+
+#color2 {
+    float: right;
+}
+
+h3 {
+    text-align: center;
+    color: lightgray;
+}
+
+.container {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.container h1 {
+    color: rgb(24, 212, 17);
+    font-size: 49px;
+}
+
+.container p {
+    color: purple;
+}
+.container input {
+    font-size: 17px;
+    border-radius: 10px;
+    border: solid 2px chocolate;
+    height: 30px;
+    width: 240px;
+}
+
+.container button {
+    font-size: 17px;
+    border-radius: 10px;
+    border: solid 2px rgb(133, 124, 5);
+    height: 30px;
+}
+
+li {
+    font-size: 24px;
+}
